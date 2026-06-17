@@ -1,39 +1,47 @@
 # Hi, I'm Yajasvi Khanna 👋
 
-I am a **Software Development Engineer** passionate about building high-performance, scalable, and maintainable systems. My work focuses on real-time data, complex frontend architectures, and high-concurrency systems.
+I am a **Full Stack Software Engineer** specializing in building high-concurrency, low-latency distributed systems. My focus lies at the intersection of high-performance frontend architecture and robust backend infrastructure. 
 
-### 🚀 About Me
-- 🔭 Currently scaling **high-concurrency financial & e-commerce platforms**.
-- 🛠 **Engineering focus:** Performance optimization, system design, and modular architecture.
-- 💬 **Ask me about:** Frontend performance, Next.js ISR, low-latency API design, and distributed systems.
-- ⚡ **Fun fact:** I am a defense and military technology enthusiast.
+I enjoy solving complex engineering challenges—from optimizing critical render paths to designing event-driven RAG pipelines and managing high-throughput data stores.
+
+---
+
+### 🛠 Technical Domains
+- **Distributed Systems & Low-Latency:** Architecting event-driven pipelines (Kafka/Redis) for real-time responsiveness.
+- **Backend Architecture:** Building scalable APIs and high-performance services with Node.js, Django, and C++.
+- **Database Engineering:** Optimizing data access patterns for scale (Aerospike, MySQL, MongoDB, Redis, pgvector).
+- **AI & ML Integration:** Designing RAG ingestion pipelines and stateful LLM-powered interfaces.
+- **Frontend Performance:** Next.js ISR, React state management, and critical path optimization.
 
 ---
 
 ## 💻 Tech Stack
 
-### Languages & Frameworks
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
+### Backend & Systems
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Aerospike](https://img.shields.io/badge/Aerospike-000000?style=flat&logo=aerospike&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+
+### Frontend & Web
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=flat&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 
-### Infrastructure & Databases
+### Infrastructure & Cloud
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 
 ---
 
-## 📈 Selected Highlights
-*   **High-Scale Systems:** Architected interfaces for platforms handling **50K+ concurrent users** and **1,700+ cinema screens**.
-*   **Performance Engineering:** Consistently reduced FCP/LCP metrics by 25-30% for high-traffic portals.
-*   **Distributed Systems:** Built event-driven RAG pipelines using **FastAPI, Kafka, and pgvector** for sub-100ms retrieval.
+## 📈 Engineering Highlights
+*   **High-Scale Systems:** Architected backend modules and frontend interfaces for platforms handling **50K+ concurrent users** and **1,700+ cinema screens**.
+*   **Low-Latency Engineering:** Optimized data retrieval and API response times for distributed production environments.
+*   **AI/ML Pipelines:** Engineered an event-driven RAG ingestion pipeline using **FastAPI, Kafka, and pgvector** for sub-100ms retrieval.
+*   **Data Reliability:** Managed high-throughput data schemas, ensuring 99.9% uptime during peak traffic surges (Black Friday events).
 
 ---
 
