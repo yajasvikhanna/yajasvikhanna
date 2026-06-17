@@ -1,47 +1,45 @@
 # Hi, I'm Yajasvi Khanna 👋
 
-I am a **Full Stack Software Engineer** specializing in building high-concurrency, low-latency distributed systems. My focus lies at the intersection of high-performance frontend architecture and robust backend infrastructure. 
-
-I enjoy solving complex engineering challenges—from optimizing critical render paths to designing event-driven RAG pipelines and managing high-throughput data stores.
+I am a **Full Stack Software Engineer** driven by the challenge of building high-concurrency, low-latency systems. I operate at the intersection of high-performance frontend engineering and backend distributed systems, with a strong focus on AI-driven architecture and performance-critical infrastructure.
 
 ---
 
-### 🛠 Technical Domains
-- **Distributed Systems & Low-Latency:** Architecting event-driven pipelines (Kafka/Redis) for real-time responsiveness.
-- **Backend Architecture:** Building scalable APIs and high-performance services with Node.js, Django, and C++.
-- **Database Engineering:** Optimizing data access patterns for scale (Aerospike, MySQL, MongoDB, Redis, pgvector).
-- **AI & ML Integration:** Designing RAG ingestion pipelines and stateful LLM-powered interfaces.
-- **Frontend Performance:** Next.js ISR, React state management, and critical path optimization.
+### 🧠 Core Competencies
+- **Backend & Systems:** Architecting scalable APIs and distributed services using **C++, Node.js, and Django**.
+- **Low Latency & Data:** Designing optimized data-access patterns with **Aerospike, Redis, and MySQL** to minimize request latency.
+- **AI/ML & RAG:** Building event-driven ingestion pipelines (**FastAPI, Kafka, pgvector**) and integrating LLMs into production-grade, stateful interfaces.
+- **Frontend Performance:** Engineering modular Next.js/React architectures, focusing on critical render paths, ISR, and high-fidelity client-side state management.
 
 ---
 
 ## 💻 Tech Stack
 
-### Backend & Systems
+### Backend, Systems & Data
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![Aerospike](https://img.shields.io/badge/Aerospike-000000?style=flat&logo=aerospike&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
 
-### Frontend & Web
+### Frontend & Web Architecture
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 
-### Infrastructure & Cloud
+### Infrastructure & AI
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/fastapi-%2305998b.svg?style=flat&logo=fastapi&logoColor=white)
 
 ---
 
 ## 📈 Engineering Highlights
-*   **High-Scale Systems:** Architected backend modules and frontend interfaces for platforms handling **50K+ concurrent users** and **1,700+ cinema screens**.
-*   **Low-Latency Engineering:** Optimized data retrieval and API response times for distributed production environments.
-*   **AI/ML Pipelines:** Engineered an event-driven RAG ingestion pipeline using **FastAPI, Kafka, and pgvector** for sub-100ms retrieval.
-*   **Data Reliability:** Managed high-throughput data schemas, ensuring 99.9% uptime during peak traffic surges (Black Friday events).
+*   **High-Scale Architecture:** Owned end-to-end modules for platforms serving **50K+ concurrent users** and **1,700+ cinema screens**, ensuring sub-millisecond response times.
+*   **Distributed Pipelines:** Engineered event-driven RAG ingestion pipelines for sub-100ms vector search, balancing storage footprint and embedding latency.
+*   **Performance Optimization:** Proven track record of reducing FCP/LCP by 25%+ and eliminating API bottlenecks through aggressive caching and code optimization.
+*   **System Reliability:** Maintained 99.9% uptime during massive traffic surges by leveraging Redis, Aerospike, and optimized WebSocket communication.
 
 ---
 
